@@ -24,6 +24,7 @@ So, we have implemented various features in our voice assistant such as:
 
 <img src="https://github.com/SWAROOPBHAGWAT/Float-The-Voice-Assistance/blob/main/SS.png" alt="Alt Text" width="400" height="300">
 
-
-https://github.com/SWAROOPBHAGWAT/Float-The-Voice-Assistance/blob/main/SS.png
+## Want to try out our Voice Assistant?
+- Click on the link below and download the .exe file in your pc
+https://drive.google.com/file/d/18tIwuQ1Qqaa5cNe6r5XwsSO0fr0QTpd-/view?usp=drive_link
 
