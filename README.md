@@ -22,5 +22,8 @@ So, we have implemented various features in our voice assistant such as:
 
 ## Screenshots
 
-![App Screenshot](https://github.com/SWAROOPBHAGWAT/Float-The-Voice-Assistance/blob/main/SS.png)
+<img src="https://github.com/SWAROOPBHAGWAT/Float-The-Voice-Assistance/blob/main/SS.png" alt="Alt Text" width="400" height="300">
+
+
+https://github.com/SWAROOPBHAGWAT/Float-The-Voice-Assistance/blob/main/SS.png
 
